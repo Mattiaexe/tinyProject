@@ -16,3 +16,5 @@ const eslintConfig = defineConfig([
 ]);
 
 export default eslintConfig;
+
+//file config eslint per next.js + typescript 
