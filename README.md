@@ -1,5 +1,18 @@
-# tinyProject
-npm install
-npm run dev
-You will see the project running on port http://localhost:3000
 
+# tinyProject 
+  - easy TypeScript + Next.js server 
+  
+  
+## Installation
+
+Install dependencies  
+
+~~~bash  
+npm install
+~~~
+
+Start the server  
+
+~~~bash  
+npm run dev
+~~~  
