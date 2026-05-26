@@ -1,2 +1,2 @@
-# tinyProgect
-# tinyProgect
+# tinyProject
+# tinyProject
